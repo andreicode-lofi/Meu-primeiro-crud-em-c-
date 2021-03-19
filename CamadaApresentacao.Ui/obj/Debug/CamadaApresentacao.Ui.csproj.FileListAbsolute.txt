@@ -1,0 +1,14 @@
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamadaApresentacao.Ui.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamadaApresentacao.Ui.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamacaNegocio.Bll.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamadaData.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamacaNegocio.Bll.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\bin\Debug\CamadaData.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.FrmCategoria.resources
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.Properties.Resources.resources
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.csproj.CopyComplete
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaApresentacao.Ui\obj\Debug\CamadaApresentacao.Ui.pdb

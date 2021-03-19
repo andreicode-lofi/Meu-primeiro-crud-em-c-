@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\Crud.Empresa.exe.config
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\Crud.Empresa.exe
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\Crud.Empresa.pdb
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamadaApresentacao.Ui.dll
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamadaApresentacao.Ui.pdb
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.Properties.Resources.resources
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.csproj.CopyComplete
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.exe
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\obj\Debug\Crud.Empresa.pdb
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamacaNegocio.Bll.dll
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamadaData.dll
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamacaNegocio.Bll.pdb
+C:\Users\andre\source\repos\Crud.Empresa\Crud.Empresa\bin\Debug\CamadaData.pdb

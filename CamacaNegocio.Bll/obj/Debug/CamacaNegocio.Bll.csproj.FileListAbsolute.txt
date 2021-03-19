@@ -1,0 +1,9 @@
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\bin\Debug\CamacaNegocio.Bll.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\bin\Debug\CamacaNegocio.Bll.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\bin\Debug\CamadaData.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\bin\Debug\CamadaData.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\obj\Debug\CamacaNegocio.Bll.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\obj\Debug\CamacaNegocio.Bll.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\obj\Debug\CamacaNegocio.Bll.csproj.CopyComplete
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\obj\Debug\CamacaNegocio.Bll.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamacaNegocio.Bll\obj\Debug\CamacaNegocio.Bll.pdb

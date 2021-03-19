@@ -1,0 +1,6 @@
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\bin\Debug\CamadaData.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\bin\Debug\CamadaData.pdb
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\obj\Debug\CamadaData.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\obj\Debug\CamadaData.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\obj\Debug\CamadaData.dll
+C:\Users\andre\source\repos\Crud.Empresa\CamadaData\obj\Debug\CamadaData.pdb

@@ -97,8 +97,8 @@ namespace CamadaApresentacao.Ui
 
         private void FrmCategoria_Load(object sender, EventArgs e)
         {
-            this.Top = 0;
-            this.Left = 0;
+            this.Top = 290;
+            this.Left = 500;
             this.Mostra();
             this.Habilitar(false);
             this.Botoes();
@@ -134,20 +134,22 @@ namespace CamadaApresentacao.Ui
             try
             {
                 string rsp = "";
-                if(txtNome.Text == string.Empty)
+                if(this.txtNome.Text == string.Empty)
                 {
-                    this.MensagemErro("Preencha os campos obrigatórios ");
+                    MensagemErro("Preencha os campos obrigatórios ");
                     errorIcone.SetError(txtNome, "Insira o nome");
                 }
                 else
                 {
                     if (this.eNovo)
                     {
-                        rsp = nCategoria.Inserir(txtNome.Text.Trim().ToUpper(), this.txtDescricao.Text.Trim());
+                        rsp = nCategoria.Inserir(this.txtNome.Text.Trim().ToUpper(), this.txtDescricao.Text.Trim());
                     }
                     else
                     {
-                        rsp = nCategoria.Editar(Convert.ToInt32(txtIdCategoria.Text), txtNome.Text.Trim().ToUpper(), this.txtIdCategoria.Text.Trim());
+                        rsp = nCategoria.Editar(Convert.ToInt32(this.txtIdCategoria.Text), 
+                            this.txtNome.Text.Trim().ToUpper(), 
+                            this.txtIdCategoria.Text.Trim());
                     }
                     if (rsp.Equals("ok"))
                     {
@@ -191,7 +193,7 @@ namespace CamadaApresentacao.Ui
         {
             if (this.txtIdCategoria.Text.Equals(""))
             {
-                this.MensagemErro("Selecione um registro para inserir");
+                this.MensagemErro("Selecione um registro para editar na aba Lista");
             }
             else
             {
@@ -252,7 +254,7 @@ namespace CamadaApresentacao.Ui
 
                             if (resposta.Equals("ok"))
                             {
-                                this.MensagemOk("Registro excluido com sucesso");
+                                
                             }
                             else
                             {
@@ -271,5 +273,6 @@ namespace CamadaApresentacao.Ui
             }
         }
 
+      
     }
 }

@@ -130,7 +130,7 @@ namespace CamadaData
         //metodo editar
         public string Editar(dCategoria categoria)
         {
-            string rsp;
+            string rsp = "";
 
             SqlConnection sqlCon = new SqlConnection();
             try
@@ -164,6 +164,7 @@ namespace CamadaData
                 sqlCmd.Parameters.Add(parDescricao);
 
                 rsp = sqlCmd.ExecuteNonQuery() == 1 ? "ok" : "Edição não foi concluida ";
+        
             }
             catch(Exception ex)
             {

@@ -22,7 +22,7 @@ namespace CamacaNegocio.Bll
         //metodo editar
         public static string Editar(int idCategoria, string nome, string descricao)
         {
-            dCategoria obj = new dCategoria();
+            dCategoria obj = new  CamadaData.dCategoria();
             obj.IdCategoria = idCategoria; 
             obj.Nome = nome;
             obj.Descricao = descricao;
